@@ -1,4 +1,1 @@
-# checking
-This is second repo.. in Github
-<br>
-Author- Syed Hashim Ali
+This repository is created to practice and learn Git and GitHub workflows.
